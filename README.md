@@ -1,8 +1,8 @@
 # Random Bash Scripts 
 
 These are Random bash scripts that I have written. Just a way for me to learn bash and make scripts to automate reptatitive tasks. I am no 
-bash wizard and do all my learning from over here :
-[Pure bash bible](https://github.com/dylanaraps/pure-bash-bible)
+bash wizard and do all my learning from over here :\
+[Pure bash bible](https://github.com/dylanaraps/pure-bash-bible)\
 Do check it out if you want to make your own bash script. *DON'T* trust gpt with making scripts for you unless you know exactly what it does 
 (call me paranoid but I dont trust it)
 
