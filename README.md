@@ -10,3 +10,8 @@ Do check it out if you want to make your own bash script. *DON'T* trust gpt with
 - jj-clean :
     git clean but for jujutsu based repos. It still doesnt have the -i or -f functionality as git does. Also it only removes gitignore files and not untracked files (since jujutsu doesnt really have the concept of untracked as every change is a commit).
 
+- youtube streamer : 
+Stream youtube music videos directly from your terminal
+<video src="https://github.com/user-attachments/assets/2dc4b4a8-c69e-4243-a841-6c61fd1edf9d" width="352" height="720"></video>
+<!-- [youtube_demo.webm](https://github.com/user-attachments/assets/2dc4b4a8-c69e-4243-a841-6c61fd1edf9d) -->
+
